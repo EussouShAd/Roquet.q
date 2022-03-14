@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src=".github/capa.png" width="100%">
+  <img alt="Rocket.Q" src="https://user-images.githubusercontent.com/99194211/158250291-926e4fc6-dedd-48ab-ad18-898bec659464.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
